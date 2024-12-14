@@ -1,0 +1,6 @@
+backend/node_modules/*
+web/node_modules/*
+web/build/*
+web/dist/*
+backend/build/*
+backend/dist/*
